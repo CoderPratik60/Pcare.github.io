@@ -133,11 +133,11 @@
   #list ul {
     display: flex;
     justify-content: center;
-    margin-left: 50px;
+    margin-left: 80px;
     margin-top: 60px;
   }
   #list ul li {
-    padding-right: 50px;
+    padding-right: 30px;
   }
   #list ul li a {
     font-size: 20px;
